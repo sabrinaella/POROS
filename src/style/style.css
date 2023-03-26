@@ -1,0 +1,32 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/bg/bookShelf2.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px rgb(116, 129, 131);
+  letter-spacing: 4px;
+}
+
+.sedangDibaca {
+  height: auto;
+  background: url("../assets/images/bg/bookShelf2.jpg");
+  background-size: cover;
+}
+
+.selesaiDibaca {
+  height: auto;
+  background: url("../assets/images/bg/bookShelf2.jpg");
+  background-size: cover;
+}
